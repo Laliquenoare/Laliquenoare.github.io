@@ -20,6 +20,9 @@
     .callback input{
         padding: 12px 0 14px 8px;
     }
+    .callback .button{
+        padding: 10.5px 1px 14px;
+    }
 }   
 @media screen and (max-width: 992px){
     .main-header h2{
@@ -33,13 +36,16 @@
         left: 1px;
         top: -6px;
     }
+    .callback .button{
+        padding: 10px 1px 14px;
+    }
 }
 @media screen and (max-width: 768px){
     .callback input{
         padding: 10px 0 6px 6px;
     }
     .callback .button{
-        padding: 9px 1px 5px;
+        padding: 8px 1px 6px;
     }
 }
 @media screen and (max-width: 576px){
@@ -51,22 +57,19 @@
         margin-bottom: 20px;
     }
     .callback input{
-        font-family: 'LucidaSans-regular';
-        font-size: 11px;
-        display: inline-block;
         padding: 12px 0 14px 8px;
-        border: 2px solid #ADC9DB;
     }
     
     .callback .button{
-        border-radius: 1px;
-        padding: 11px 9px 13px;
-        border: 2px solid #ADC9DB;
+        padding: 10px 9px 14px;
     }  
     .contacts{
         margin-top: 5px;
     }
     .copyright{
         margin-bottom: 10px;
+    }
+    .top-header__phone{
+        display: none;
     }
 }
