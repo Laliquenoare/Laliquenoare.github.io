@@ -1,0 +1,86 @@
+@font-face{
+
+    font-family: 'LucidaSans-unicode';
+    
+    src: url('../fonts/LucidaSans/l_10646.ttf');
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
+    
+
+@font-face{
+
+    font-family: 'LucidaSans-regular';
+    
+    src: url('../fonts/LucidaSans/LSANS.TTF');
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
+
+@font-face{
+
+    font-family: 'LucidaSans-italic';
+    
+    src: url('../fonts/LucidaSans/LSANSI.TTF');
+    
+    font-weight: normal;
+    
+    font-style: italic;
+    
+    }
+
+@font-face{
+
+    font-family: 'LucidaSans-Dem';
+    
+    src: url('../fonts/LucidaSans/LSANSD.TTF');
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
+
+        
+
+@font-face{
+
+    font-family: 'Charis';
+    
+    src: url('../fonts/Charis/CharisSIL.ttf');
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
+
+@font-face{
+
+    font-family: 'Charis-bold';
+    
+    src: url('../fonts/Charis/CharisSIL-Bold.ttf');
+    
+    font-weight: bold;
+    
+    font-style: normal;
+    
+    }
+
+@font-face{
+
+    font-family: 'Charis-italic';
+    
+    src: url('../fonts/Charis/CharisSIL-Italic.ttf');
+    
+    font-weight: normal;
+    
+    font-style: italic;
+    
+    }
