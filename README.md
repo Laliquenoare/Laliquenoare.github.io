@@ -3,7 +3,6 @@
 
 ### [Laliquenoare.github.io](https://github.com/Laliquenoare/Laliquenoare.github.io) 
 
-![pic](./task.png)
 
 
 
